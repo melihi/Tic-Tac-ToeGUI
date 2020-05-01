@@ -1,4 +1,4 @@
 # Tic-Tac-ToeGUI
 Simple TicTacToe game.Developed with java.
 
-Basic tic tac toe game.
+Basic tic tac toe  java game.
