@@ -5,4 +5,4 @@ This project is my first gui experinence.
 This code is worst java code in the world :D
  
  
- ![Alt Text](https://imagehost.imageupload.net/2020/06/01/output_1CerYH.gif)
+ ![Alt Text](https://github.com/melihi/pictures-and-gifs/blob/master/Github%20Gifs%20images/ezgif.com-video-to-gif.gif)
