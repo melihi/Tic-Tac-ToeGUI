@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="https://github.com/melihi/pictures-and-gifs/blob/master/Github%20Gifs%20images/ezgif.com-video-to-gif.gif">
+  <img  src="https://raw.githubusercontent.com/melihi/Tic-Tac-ToeGUI/master/screens.gif">
 </p>
 
 
